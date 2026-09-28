@@ -2,14 +2,14 @@
 print("jangan nulis ytta ya, admint marah")
 name = input("whats ur name: ")
 
-# Selama yang diketik adalah "ytta", jalankan perintah di dalam blok ini terus-menerus alias loop ya suki.
+# Selama yang diketik adalah "ytta", jalankan perintah di dalam blok ini terus-menerus alias loop ya .
 while name.lower() == "ytta":
     print("nulis yg bener!!!!")
-    name = input("whats ur name: ") # Meminta input ulang sampai benar, jangan ngawur ya suki.
+    name = input("whats ur name: ") # Meminta input ulang sampai benar, jangan ngawur ya.
     
 age = input("how old r u: ")
 
-# Menyapa menggunakan f-string (ytta)
+# Menyapa menggunakan f-string 
 print(f"hello {name}!")
 
 # Mengubah tipe data age dari string ke integer (angka) agar bisa dihitung 
@@ -20,4 +20,4 @@ age = age + 1
 print("happy bday!")
 print(f"youre {age} years old")
 
-#masih satu keluarga di project "kakap" latihan user-input, f-string, dan type conversion dan jangan tanya gw gw juga ga paham 
+#masih satu keluarga di project "kakap" latihan user-input, f-string, dan type conversion
