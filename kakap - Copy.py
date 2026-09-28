@@ -2,7 +2,7 @@
 name = input("whats ur name: ")
 age = input("how old r u: ")
 
-# Menyapa menggunakan f-string (ytta)
+# Menyapa menggunakan f-string 
 print(f"hello {name}!")
 
 # Mengubah tipe data age dari string ke integer (angka) agar bisa dihitung 
@@ -13,4 +13,3 @@ age = age + 1
 print("happy bday!")
 print(f"youre {age} years old")
 
-#masih satu keluarga di project "kakap" latihan user-input, f-string, dan type conversion dan jangan tanya gw gw juga ga paham 
