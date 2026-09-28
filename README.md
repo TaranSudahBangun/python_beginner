@@ -1,4 +1,5 @@
-# ternak_piton
-welkam tu "kakap" project, kenapa namanya "kakap" jujur gatau sih, ngapain juga anda tanya?
-ini sebenernya proyek pribadi, yang dia apakan biar apa gitu. supaya bisa ninggal jejak di github.
-semoga keterima gemastik terus pamer prestasi di facebook
+python_beginner adalah proyek kecil saya untuk memulai ulang atau "comeback" dari dunia coding setelah hiatus dari belajar HTML dan css
+welcome to my mini project!
+repo ini akan terus berkembang seiring berjalannya waktu, karena python juga adalah salah satu matkul di jurusan saya,
+YANG SUDAH SAYA PELAJARI:
+-user-input, f-string, dan type conversion
